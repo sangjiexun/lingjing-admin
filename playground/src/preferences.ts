@@ -8,6 +8,6 @@ import { defineOverridesPreferences } from '@vben/preferences';
 export const overridesPreferences = defineOverridesPreferences({
   // overrides
   app: {
-    name: import.meta.env.VITE_APP_TITLE,
+    name: '灵镜AI <small style="font-size: 12px;">内测版</small>',
   },
 });

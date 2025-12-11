@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/anncwb/vue-vben-admin">
-    <img alt="VbenAdmin Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
+    <img alt="灵镜AI管理平台 Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
   </a>
   <br>
   <br>
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
-  <h1>Vue Vben Admin</h1>
+  <h1>灵镜AI管理平台</h1>
 </div>
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) ![codeql](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml/badge.svg) ![build](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml/badge.svg) ![ci](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml/badge.svg) ![deploy](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml/badge.svg)
@@ -16,7 +16,7 @@
 
 ## 紹介
 
-Vue Vben Adminは、最新の`vue3`、`vite`、`TypeScript`などの主流技術を使用して開発された、無料でオープンソースの中・後端テンプレートです。すぐに使える中・後端のフロントエンドソリューションとして、学習の参考にもなります。
+灵镜AI管理平台は、最新の`vue3`、`vite`、`TypeScript`などの主流技術を使用して開発された、無料でオープンソースの中・后端管理システムです。すぐに使える中・后端のフロントエンドソリューションとして、学習の参考にもなります。
 
 ## アップグレード通知
 
@@ -32,14 +32,14 @@ Vue Vben Adminは、最新の`vue3`、`vite`、`TypeScript`などの主流技術
 
 ## プレビュー
 
-- [Vben Admin](https://vben.pro/) - フルバージョンの中国語サイト
+- [灵镜AI管理平台](https://vben.pro/) - フルバージョンの中国語サイト
 
 テストアカウント：vben/123456
 
 <div align="center">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
+  <img alt="灵镜AI管理平台 Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
+  <img alt="灵镜AI管理平台 Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
+  <img alt="灵镜AI管理平台 Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
 </div>
 
 ### Gitpodを使用
@@ -124,7 +124,7 @@ pnpm build
 
 ## メンテナー
 
-[@Vben](https://github.com/anncwb)
+[@灵镜AI](https://github.com/anncwb)
 
 ## スター歴史
 
@@ -154,4 +154,4 @@ pnpm build
 
 ## ライセンス
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © 灵镜AI-2020](./LICENSE)

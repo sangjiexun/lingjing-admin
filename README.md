@@ -1,13 +1,13 @@
 <div align="center">
   <a href="https://github.com/anncwb/vue-vben-admin">
-    <img alt="VbenAdmin Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
+    <img alt="灵镜AI管理平台 Logo" width="215" src="https://unpkg.com/@vbenjs/static-source@0.1.7/source/logo-v1.webp">
   </a>
   <br>
   <br>
 
 [![license](https://img.shields.io/github/license/anncwb/vue-vben-admin.svg)](LICENSE)
 
-  <h1>Vue Vben Admin</h1>
+  <h1>灵镜AI管理平台</h1>
 </div>
 
 [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=vbenjs_vue-vben-admin&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=vbenjs_vue-vben-admin) [![codeql](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/codeql.yml) [![build](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/build.yml) [![ci](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/ci.yml) [![deploy](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml/badge.svg)](https://github.com/vbenjs/vue-vben-admin/actions/workflows/deploy.yml)
@@ -16,7 +16,7 @@
 
 ## Introduction
 
-Vue Vben Admin is a free and open source middle and back-end template. Using the latest `vue3`, `vite`, `TypeScript` and other mainstream technology development, the out-of-the-box middle and back-end front-end solutions can also be used for learning reference.
+灵镜AI管理平台是一个免费开源的中后台管理系统。采用最新的 `vue3`、`vite`、`TypeScript` 等主流技术开发，提供开箱即用的中后台前端解决方案，也可用于学习参考。
 
 ## Upgrade Notice
 
@@ -32,14 +32,14 @@ This is the latest version, 5.0, and it is not compatible with previous versions
 
 ## Preview
 
-- [Vben Admin](https://vben.pro/) - Full version Chinese site
+- [灵镜AI管理平台](https://vben.pro/) - 完整版中文站点
 
 Test Account: vben/123456
 
 <div align="center">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
-  <img alt="VbenAdmin Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
+  <img alt="灵镜AI管理平台 Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview1.png">
+  <img alt="灵镜AI管理平台 Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview2.png">
+  <img alt="灵镜AI管理平台 Logo" width="100%" src="https://anncwb.github.io/anncwb/images/preview3.png">
 </div>
 
 ### Use Gitpod
@@ -124,7 +124,7 @@ Support modern browsers, not IE
 
 ## Maintainer
 
-[@Vben](https://github.com/anncwb)
+[@灵镜AI](https://github.com/anncwb)
 
 ## Star History
 
@@ -154,4 +154,4 @@ If you think this project is helpful to you, you can help the author buy a cup o
 
 ## License
 
-[MIT © Vben-2020](./LICENSE)
+[MIT © 灵镜AI-2020](./LICENSE)

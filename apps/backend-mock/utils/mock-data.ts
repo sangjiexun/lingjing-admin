@@ -16,7 +16,7 @@ export const MOCK_USERS: UserInfo[] = [
   {
     id: 0,
     password: '123456',
-    realName: 'Vben',
+    realName: '灵镜AI',
     roles: ['super'],
     username: 'vben',
   },
@@ -326,8 +326,8 @@ export const MOCK_MENU_LIST = [
       {
         id: 901,
         pid: 9,
-        name: 'VbenDocument',
-        path: '/vben-admin/document',
+        name: '灵镜AI文档',
+        path: '/lingjing-ai/document',
         component: 'IFrameView',
         type: 'embedded',
         status: 1,
@@ -340,8 +340,8 @@ export const MOCK_MENU_LIST = [
       {
         id: 902,
         pid: 9,
-        name: 'VbenGithub',
-        path: '/vben-admin/github',
+        name: '灵镜AIGithub',
+        path: '/lingjing-ai/github',
         component: 'IFrameView',
         type: 'link',
         status: 1,
@@ -354,8 +354,8 @@ export const MOCK_MENU_LIST = [
       {
         id: 903,
         pid: 9,
-        name: 'VbenAntdv',
-        path: '/vben-admin/antdv',
+        name: '灵镜AIAntdv',
+        path: '/lingjing-ai/antdv',
         component: 'IFrameView',
         type: 'link',
         status: 0,

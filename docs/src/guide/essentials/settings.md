@@ -31,7 +31,7 @@
 
 ```bash [.env]
 # 应用标题
-VITE_APP_TITLE=Vben Admin
+VITE_APP_TITLE=灵镜AI 内测版
 
 # 应用命名空间，用于缓存、store等功能的前缀，确保隔离
 VITE_APP_NAMESPACE=vben-web-antd
@@ -223,7 +223,7 @@ const defaultPreferences: Preferences = {
     layout: 'sidebar-nav',
     locale: 'zh-CN',
     loginExpiredMode: 'page',
-    name: 'Vben Admin',
+    name: '灵镜AI管理平台'
     preferencesButtonPosition: 'auto',
     watermark: false,
     zIndex: 200,

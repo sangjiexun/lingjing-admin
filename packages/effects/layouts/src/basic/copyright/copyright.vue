@@ -12,11 +12,11 @@ defineOptions({
 });
 
 withDefaults(defineProps<Props>(), {
-  companyName: 'Vben Admin',
+  companyName: '灵镜AI 内测版',
   companySiteLink: '',
   date: '2024',
   icp: '',
-  icpLink: '',
+  icpLink: ''
 });
 </script>
 
